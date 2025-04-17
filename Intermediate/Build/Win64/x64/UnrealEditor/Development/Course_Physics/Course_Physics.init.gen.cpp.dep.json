@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pc\\documents\\unreal projects\\course_physics\\intermediate\\build\\win64\\unrealeditor\\inc\\course_physics\\uht\\course_physics.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pc\\documents\\unreal projects\\course_physics\\intermediate\\build\\win64\\x64\\course_physicseditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\pc\\documents\\unreal projects\\course_physics\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\course_physics\\definitions.course_physics.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
